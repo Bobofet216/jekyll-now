@@ -1,5 +1,5 @@
 ---
-title: Customising my blog
+title: Customizing Blog 
 layout: post
 author: robert.wallis
 permalink: /copy-of-thesmurf755---second-blog-/

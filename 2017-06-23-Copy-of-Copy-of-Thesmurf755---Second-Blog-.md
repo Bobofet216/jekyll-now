@@ -1,5 +1,5 @@
 ---
-title: An Hour of Coding
+title: An hour of code 
 layout: post
 author: robert.wallis
 permalink: /copy-of-copy-of-thesmurf755---second-blog-/
